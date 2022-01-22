@@ -1,0 +1,14 @@
+
+header{ 
+    display: block; 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    background-image: url("c/pictures/background.jpeg");
+
+}
+.element {
+    background-image: src="c/pictures/background.jpeg"
+    
+}
